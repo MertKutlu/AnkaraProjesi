@@ -11,6 +11,7 @@ namespace AnkaraProjesi
         static void Main(string[] args)
         {
             //***test proje***
+            //ben meriç değişiklik yaptım.
         }
     }
 }
