@@ -18,6 +18,7 @@ namespace AnkaraProjesi
             {
                 return;
             }
+            static void Oku() { }
     }
     }
 }
